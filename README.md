@@ -1,1 +1,1 @@
-# ai_for_devs_module_1_assets
+# AI For Developers I
