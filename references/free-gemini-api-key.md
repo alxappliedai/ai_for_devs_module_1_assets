@@ -1,4 +1,4 @@
-# Getting Free Gemini API Key
+# How to get free Gemini API key
 
 Getting a free API key for Google Gemini is a straightforward process designed to allow developers and users to experiment with the Gemini models. Google offers a free tier through Google AI Studio, which is suitable for development, testing, and small-scale applications.
 
